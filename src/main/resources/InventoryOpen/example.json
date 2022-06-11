@@ -1,0 +1,7 @@
+{
+  "guiName": "GUI 이름",
+  "slotItemIdList": [
+    "custom1",
+    "custom2"
+  ]
+}
