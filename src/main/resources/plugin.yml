@@ -1,0 +1,6 @@
+name: RPGSharpCustomGUI
+version: '${version}'
+main: com.binggre.rpgsharpcustomgui.RPGSharpCustomGUI
+api-version: 1.18
+depend: [ RpgSharp ]
+authors: [ binggre ]
